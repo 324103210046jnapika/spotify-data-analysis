@@ -89,10 +89,17 @@ The dataset contains information about songs such as:
 ```
 spotify-data-analysis/
 │
-├── spotify_data_analysis.ipynb
-├── SpotifY_DataSet1.csv
-├── app.py
-├── README.md
+├── 📄 README.md
+├── 📓 spotify_data_analysis.ipynb
+├── 📊 SpotifY_DataSet1.csv
+├── 🐍 app.py
+│
+├── 📁 images/
+│   ├── popularity.png
+│   ├── scatter.png
+│   ├── top_artists.png
+│
+└── 📁 .ipynb_checkpoints/   
 ```
 
 ---
