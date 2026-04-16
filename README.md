@@ -76,10 +76,10 @@ The dataset contains information about songs such as:
 ## 📸 Sample Visualizations
 
 ### 🔹 Popularity Distribution
-![Popularity Graph](popularity.png)
+![Popularity Graph](images/popularity.png)
 
 ### 🔹 Feature Relationship
-![Scatter Plot](scatter.png)
+![Scatter Plot](images/scatter.png)
 
 
 ---
